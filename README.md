@@ -1,2 +1,3 @@
 # Illustrator
-Scripts for Illustrator
+Collection of scripts for Illustrator
+ 
